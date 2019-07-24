@@ -1,0 +1,9 @@
+Added Component: Designator=LED1(LED-3)
+Added Component: Designator=R1(R1/4W)
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=5V Pin=R1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-2
+Added Net: Name=NetLED1_1
+Added Member To Class: ClassName=Sheet2 Member=Component LED1 LED
+Added Member To Class: ClassName=Sheet2 Member=Component R1 1k

@@ -1,0 +1,22 @@
+Added Component: Designator=IC2(DIP14/W0.3)
+Added Component: Designator=VR4(VR)
+Added Component: Designator=VR6(VR)
+Added Pin To Net: NetName=SIGNAL6 Pin=IC2-1
+Added Pin To Net: NetName=OUT6 Pin=IC2-2
+Added Pin To Net: NetName=VCC Pin=IC2-4
+Added Pin To Net: NetName=OUT5 Pin=IC2-6
+Added Pin To Net: NetName=SIGNAL5 Pin=IC2-7
+Added Pin To Net: NetName=GND Pin=IC2-11
+Added Pin To Net: NetName=VCC Pin=VR4-1
+Added Pin To Net: NetName=GND Pin=VR4-3
+Added Pin To Net: NetName=VCC Pin=VR6-1
+Added Pin To Net: NetName=GND Pin=VR6-3
+Added Pin To Net: NetName=NetIC2_3 Pin=IC2-3
+Added Pin To Net: NetName=NetIC2_3 Pin=VR4-2
+Added Net: Name=NetIC2_3
+Added Pin To Net: NetName=NetIC2_5 Pin=IC2-5
+Added Pin To Net: NetName=NetIC2_5 Pin=VR6-2
+Added Net: Name=NetIC2_5
+Added Member To Class: ClassName=OpAMP_Sensor Member=Component IC2 LM324
+Added Member To Class: ClassName=OpAMP_Sensor Member=Component VR4 10K
+Added Member To Class: ClassName=OpAMP_Sensor Member=Component VR6 10K
